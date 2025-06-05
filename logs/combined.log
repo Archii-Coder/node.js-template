@@ -96,3 +96,6 @@
 
 [2025-06-05T08:18:32.576Z] [info] : [0mPOST /v1/auth/login [33m401[0m 4.810 ms - 31[0m
 
+[2025-06-05T20:02:58.468Z] [info] : Attempting to connect to DB
+[2025-06-05T20:02:58.501Z] [info] : server listening on port 3000
+[2025-06-05T20:02:58.519Z] [info] : DB connected successfully
