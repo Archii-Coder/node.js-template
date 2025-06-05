@@ -28,3 +28,71 @@
 [2025-06-04T10:39:52.350Z] [info] : server listening on port 3000
 [2025-06-04T11:17:00.142Z] [info] : server listening on port 3000
 [2025-06-04T11:17:47.568Z] [info] : server listening on port 3000
+[2025-06-05T06:03:32.782Z] [info] : server listening on port 3000
+[2025-06-05T06:03:35.482Z] [info] : server listening on port 3000
+[2025-06-05T06:03:53.573Z] [info] : server listening on port 3000
+[2025-06-05T06:04:46.603Z] [info] : server listening on port 3000
+[2025-06-05T06:10:06.968Z] [info] : server listening on port 3000
+[2025-06-05T06:11:01.614Z] [info] : server listening on port 3000
+[2025-06-05T06:14:39.486Z] [info] : server listening on port 3000
+[2025-06-05T06:16:10.656Z] [info] : server listening on port 3000
+[2025-06-05T06:16:28.794Z] [info] : server listening on port 3000
+[2025-06-05T06:17:25.383Z] [info] : server listening on port 3000
+[2025-06-05T06:19:45.275Z] [info] : server listening on port 3000
+[2025-06-05T06:20:17.798Z] [info] : server listening on port 3000
+[2025-06-05T06:22:19.594Z] [info] : server listening on port 3000
+[2025-06-05T06:23:11.187Z] [info] : [0mGET /v1/auth/register [33m404[0m 2.636 ms - 155[0m
+
+[2025-06-05T06:24:31.591Z] [info] : [0mGET /v1/auth/register [33m404[0m 2.918 ms - 155[0m
+
+[2025-06-05T06:27:03.381Z] [info] : server listening on port 3000
+[2025-06-05T06:27:05.670Z] [info] : server listening on port 3000
+[2025-06-05T06:27:22.583Z] [info] : server listening on port 3000
+[2025-06-05T07:07:16.894Z] [info] : server listening on port 3000
+[2025-06-05T07:07:55.089Z] [info] : server listening on port 3000
+[2025-06-05T07:11:20.386Z] [info] : server listening on port 3000
+[2025-06-05T07:11:44.646Z] [info] : server listening on port 3000
+[2025-06-05T07:12:10.606Z] [info] : server listening on port 3000
+[2025-06-05T07:12:48.480Z] [info] : server listening on port 3000
+[2025-06-05T07:12:59.855Z] [info] : server listening on port 3000
+[2025-06-05T07:13:36.588Z] [info] : server listening on port 3000
+[2025-06-05T07:42:08.855Z] [info] : server listening on port 3000
+[2025-06-05T07:42:37.604Z] [info] : server listening on port 3000
+[2025-06-05T07:42:44.949Z] [info] : server listening on port 3000
+[2025-06-05T07:58:10.413Z] [info] : server listening on port 3000
+[2025-06-05T07:58:17.402Z] [info] : [0mPOST /v1/auth/register [32m201[0m 21.520 ms - 82[0m
+
+[2025-06-05T08:00:03.164Z] [info] : server listening on port 3000
+[2025-06-05T08:01:54.809Z] [info] : Attempting to connect to DB
+[2025-06-05T08:01:54.821Z] [info] : server listening on port 3000
+[2025-06-05T08:02:46.166Z] [info] : Attempting to connect to DB
+[2025-06-05T08:02:46.178Z] [info] : server listening on port 3000
+[2025-06-05T08:02:46.183Z] [info] : DB connected successfully
+[2025-06-05T08:04:31.317Z] [info] : Attempting to connect to DB
+[2025-06-05T08:04:31.334Z] [info] : server listening on port 3000
+[2025-06-05T08:04:31.343Z] [info] : DB connected successfully
+[2025-06-05T08:04:46.729Z] [info] : Attempting to connect to DB
+[2025-06-05T08:04:46.741Z] [info] : server listening on port 3000
+[2025-06-05T08:04:46.745Z] [info] : DB connected successfully
+[2025-06-05T08:08:52.419Z] [info] : Attempting to connect to DB
+[2025-06-05T08:08:52.438Z] [info] : server listening on port 3000
+[2025-06-05T08:08:52.447Z] [info] : DB connected successfully
+[2025-06-05T08:11:03.772Z] [info] : Attempting to connect to DB
+[2025-06-05T08:11:03.792Z] [info] : server listening on port 3000
+[2025-06-05T08:11:03.800Z] [info] : DB connected successfully
+[2025-06-05T08:11:29.897Z] [info] : Attempting to connect to DB
+[2025-06-05T08:11:29.915Z] [info] : server listening on port 3000
+[2025-06-05T08:11:29.920Z] [info] : DB connected successfully
+[2025-06-05T08:15:24.136Z] [info] : Attempting to connect to DB
+[2025-06-05T08:15:24.154Z] [info] : server listening on port 3000
+[2025-06-05T08:15:24.163Z] [info] : DB connected successfully
+[2025-06-05T08:16:00.817Z] [info] : Attempting to connect to DB
+[2025-06-05T08:16:00.829Z] [info] : server listening on port 3000
+[2025-06-05T08:16:00.833Z] [info] : DB connected successfully
+[2025-06-05T08:16:47.460Z] [info] : Attempting to connect to DB
+[2025-06-05T08:16:47.471Z] [info] : server listening on port 3000
+[2025-06-05T08:16:47.476Z] [info] : DB connected successfully
+[2025-06-05T08:18:22.008Z] [info] : [0mPOST /v1/auth/login [32m200[0m 42.924 ms - 19[0m
+
+[2025-06-05T08:18:32.576Z] [info] : [0mPOST /v1/auth/login [33m401[0m 4.810 ms - 31[0m
+
